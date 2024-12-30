@@ -33,12 +33,11 @@ This is a dynamic, visually appealing event calendar application built with Reac
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Kedarnath-Rothe/Calender
+   cd Calender
    npm install
    npm install
 
-   ```markdown
 ## Deployment Link
 The application is deployed on Vercel and can be accessed here:
 [Dynamic Event Calendar Application](https://digital-calender.vercel.app/)
