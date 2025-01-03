@@ -28,7 +28,7 @@ This is a dynamic, visually appealing event calendar application built with Reac
   ## Instructions to Run Locally
 
 ### Prerequisites
-- 
+- Node.js (version 14 or higher) and npm/yarn installed on your system.
 
 ### Steps
 1. **Clone the repository:**
