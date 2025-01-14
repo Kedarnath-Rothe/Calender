@@ -1,5 +1,5 @@
 ## Overview
-
+This is a dynamic, visually appealing event calendar application built with React.js. The application allows users to manage events by adding, editing, and deleting them for specific dates. It also provides persistence for event data using local storage and incorporates advanced features.
 
 ### Features
 - **Calendar View:**
